@@ -2,8 +2,8 @@
 
 <A collection of Data Science Take-home Challenges>
 
-- [ ] 1 Conversion rate (insights)
-- [ ] 2 Spanish translation (a/b testing)
+- [x] 1 Conversion rate (insights)
+- [x] 2 Spanish translation (a/b testing)
 - [ ] 3 Employee retention (insights)
 - [ ] 4 Identifying fraudulent activities (ml)
 - [ ] 5 Funnel analysis (insights)
